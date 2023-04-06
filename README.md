@@ -10,6 +10,16 @@ Search [Java Downloads](https://www.oracle.com/java/technologies/downloads/)
 ```
 $ java --version
 $ /usr/libexec/java_home -V 
+
+Matching Java Virtual Machines (1):
+    20 (arm64) "Oracle Corporation" - "Java SE 20" /Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home
+/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home
+```
+
+```
+$ /usr/libexec/java_home -v "20"
+
+/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home
 ```
 
 ## Export JAVA_HOME & PATH
