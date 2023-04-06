@@ -46,4 +46,6 @@ $ which java
 
 * [java_home and JAVA_HOME on macOS](https://medium.com/notes-for-geeks/java-home-and-java-home-on-macos-f246cab643bd)
 
+* [Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java)
+
 ***
