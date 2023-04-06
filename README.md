@@ -15,6 +15,7 @@ $ /usr/libexec/java_home -V
 ## Export JAVA_HOME & PATH
 
 ```
+unset JAVA_HOME
 export JAVA_HOME=/usr/libexec/java_home
 export PATH=$PATH:$JAVA_HOME/bin
 ```
