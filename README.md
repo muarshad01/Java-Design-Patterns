@@ -9,6 +9,7 @@ Search [Java Downloads](https://www.oracle.com/java/technologies/downloads/)
 
 ```
 $ java --version
+$ /usr/libexec/java_home -V 
 ```
 
 ***
