@@ -7,4 +7,12 @@ Java Design Patterns
 
 Search [Java Downloads](https://www.oracle.com/java/technologies/downloads/)
 
+```
+$ java --version
+```
+
+***
+
+[How to install java on mac m1 Install JDK](https://www.youtube.com/watch?v=2VxsPtZVfPE)
+
 ***
