@@ -34,7 +34,8 @@ export PATH=$PATH:$JAVA_HOME/bin
 
 ## Useful Links
 
-[How to install java on mac m1 Install JDK](https://www.youtube.com/watch?v=2VxsPtZVfPE)
-[java_home and JAVA_HOME on macOS](https://medium.com/notes-for-geeks/java-home-and-java-home-on-macos-f246cab643bd)
+* [How to install java on mac m1 Install JDK](https://www.youtube.com/watch?v=2VxsPtZVfPE)
+
+* [java_home and JAVA_HOME on macOS](https://medium.com/notes-for-geeks/java-home-and-java-home-on-macos-f246cab643bd)
 
 ***
