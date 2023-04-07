@@ -48,4 +48,6 @@ $ which java
 
 * [Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java)
 
+* [Java to UML Diagram using Eclipse Plugin](https://marketplace.eclipse.org/search/site/UML)
+
 ***
