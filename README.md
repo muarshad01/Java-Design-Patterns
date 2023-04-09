@@ -3,6 +3,18 @@ Java Design Patterns
 
 ***
 
+## Structural Design Patterns
+
+[Adapter](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Adapter)
+[Bridge](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Bridge)
+[Composite](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Composite)
+[Decorator](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Decorator)
+[Facade](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Facade)
+[Flyweight](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Flyweight)
+[Proxy](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Proxy)
+
+***
+
 ## How to Install Java
 
 Search [Java Downloads](https://www.oracle.com/java/technologies/downloads/)
