@@ -3,7 +3,7 @@ Java Design Patterns
 
 ***
 
-## Structural Design Patterns
+## Creational Design Patterns
 
 * [Adapter](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Adapter)
 * [Bridge](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Bridge)
@@ -12,6 +12,14 @@ Java Design Patterns
 * [Facade](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Facade)
 * [Flyweight](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Flyweight)
 * [Proxy](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Proxy)
+
+## Structural Design Patterns
+
+* [Abstract Factory](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Abstract_Factory)
+* [Builder](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Bridge)
+* [Factory Method](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Factory_Method)
+* [Prototype](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Prototype)
+* [Singleton](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Singleton)
 
 ***
 
