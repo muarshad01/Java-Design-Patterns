@@ -27,6 +27,7 @@ Java Design Patterns
 
 ## Behavioral Design Pattern 
 * [Chain of Responsibility](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Behavioral_Design_Pattern/ChainOfResponsibility)
+* [Command](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Behavioral_Design_Pattern/Command)
 
 ***
 
