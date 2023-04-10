@@ -13,6 +13,8 @@ Java Design Patterns
 * [Flyweight](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Flyweight)
 * [Proxy](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Proxy)
 
+***
+
 ## Structural Design Patterns (ABFPS)
 
 * [Abstract Factory](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Abstract_Factory)
@@ -20,6 +22,11 @@ Java Design Patterns
 * [Factory Method](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Factory_Method)
 * [Prototype](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Prototype)
 * [Singleton](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
+
+***
+
+## Behavioral Design Pattern 
+* [Chain of Responsibility](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Behavioral_Design_Pattern/ChainOfResponsibility)
 
 ***
 
