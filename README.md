@@ -32,6 +32,7 @@ Java Design Patterns
 * [Iterator](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Behavioral_Design_Pattern/Iterator)
 * [Template Method](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Behavioral_Design_Pattern/TemplateMethod)
 * [Visitor](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Behavioral_Design_Pattern/Visitor)
+* [Strategy](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Behavioral_Design_Pattern/Strategy)
 
 ***
 
