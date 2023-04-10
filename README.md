@@ -3,7 +3,7 @@ Java Design Patterns
 
 ***
 
-## Creational Design Patterns
+## Creational Design Patterns (ABCDF2P)
 
 * [Adapter](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Adapter)
 * [Bridge](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Bridge)
@@ -13,7 +13,7 @@ Java Design Patterns
 * [Flyweight](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Flyweight)
 * [Proxy](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Proxy)
 
-## Structural Design Patterns
+## Structural Design Patterns (ABFPS)
 
 * [Abstract Factory](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Abstract_Factory)
 * [Builder](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Builder)
