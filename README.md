@@ -89,6 +89,8 @@ $ which java
 
 * [Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java)
 
+* [Eclipse for macOS m1](https://www.eclipse.org/downloads/packages/2022-06m1)
+
 * [Java to UML Diagram using Eclipse Plugin](https://marketplace.eclipse.org/search/site/UML)
 
 ***
