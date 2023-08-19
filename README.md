@@ -93,4 +93,5 @@ $ which java
 
 * [Java to UML Diagram using Eclipse Plugin](https://marketplace.eclipse.org/search/site/UML)
 
+* Eclipse --> Help --> Eclipse Marketplace (Find: UML Lab Modeling IDE) --> Install --> Check box certificates (Reload)
 ***
