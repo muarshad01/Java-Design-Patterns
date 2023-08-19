@@ -1,2 +1,1 @@
-
-![Proxy UML](https://github.com/muarshad01/Java-Design-Patterns/blob/main/Proxy/images/proxy.png)
+![Proxy Pattern UML](https://github.com/muarshad01/Java-Design-Patterns/blob/main/Diagrams/proxy/proxy.png)
