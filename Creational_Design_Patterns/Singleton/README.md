@@ -4,4 +4,4 @@ Singleton is a creational design pattern that lets you ensure that a class has o
 
 ***
 
-![Singleton UML](https://github.com/muarshad01/Java-Design-Patterns/blob/main/Diagrams/iterator/singleton.png)
+![Singleton UML](https://github.com/muarshad01/Java-Design-Patterns/blob/main/Diagrams/siterator/singleton.png)
