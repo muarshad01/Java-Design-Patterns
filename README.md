@@ -11,17 +11,6 @@ Java Design Patterns
 * [Prototype](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Prototype)
 * [Singleton](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
 
-
-***
-
-## Creational Design Patterns (ABFPS)
-
-* [Abstract Factory](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Abstract_Factory)
-* [Builder](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Builder)
-* [Factory Method](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Factory_Method)
-* [Prototype](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Prototype)
-* [Singleton](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
-
 ## Structural Design Patterns (ABCDF2P)
 
 * [Adapter](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Adapter)
