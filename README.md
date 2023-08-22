@@ -11,6 +11,7 @@ Java Design Patterns
 * [Prototype](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Prototype)
 * [Singleton](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
 
+
 ***
 
 ## Creational Design Patterns (ABFPS)
