@@ -11,7 +11,7 @@ Java Design Patterns
 * [Prototype](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Prototype)
 * [Singleton](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
 
-## Structural Design Patterns (ABCDF2P)
+## Structural Design Patterns (ABCDFFP)
 
 * [Adapter](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Adapter)
 * [Bridge](https://github.com/muarshad01/Java-Design-Patterns/tree/main/Structural_Design_Patterns/Bridge)
