@@ -1,7 +1,10 @@
 ## Intent
 
-Visitor is a behavioral design pattern that allows `adding new behaviors to existing class hierarchy without altering any existing code`.
+Visitor is a behavioral design pattern that lets you `separate algorithms from the objects on which they operate`.
 
+<!--
+Visitor is a behavioral design pattern that allows `adding new behaviors to existing class hierarchy without altering any existing code`.
+-->
 
 ***
 
